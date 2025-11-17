@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Moneyball Revisited: DiD Football Analysis",
+  "description": "An interactive web application to analyze the causal effect of a financial takeover on a football club's success using the Difference-in-Differences (DiD) methodology, with AI-powered insights from Gemini.",
+  "requestFramePermissions": []
+}
